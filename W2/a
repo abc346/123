@@ -1,0 +1,19 @@
+import javax.swing.JFrame;
+public class JNotePadUI extends JFrame{
+	public JNotePadUI() {
+	super("新增文字檔案");
+	setUpUIComponent();
+	setUpEventListener();
+	setVisible(ture);
+	}
+}
+
+
+public class a {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}
